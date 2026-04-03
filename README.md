@@ -2,9 +2,9 @@
 
 Built by [Andy Toizer](https://www.linkedin.com/in/andy-toizer/) — I write [Agent Operator](https://agentoperator.substack.com), a newsletter about what it actually looks like to build real systems with coding agents as a non-engineer, using live company data.
 
-I built and tested this Dedupe Agent on [Freckle](https://freckle.io)'s live HubSpot data — 84K contacts, thousands of companies, 2,500+ duplicates merged on the first run.
+**TLDR:** The Dedup Agent finds and merges duplicate contacts and companies in your CRM, runs on a 4-hour schedule, auto-merges high-confidence matches, uses Claude AI to review fuzzy ones, and sends a daily Slack digest of anything that genuinely needs human eyes.
 
-**TLDR:** It finds and merges duplicate contacts and companies in your CRM, runs on a 4-hour schedule, auto-merges high-confidence matches, uses Claude AI to review fuzzy ones, and sends a daily Slack digest of anything that genuinely needs human eyes.
+It was built and tested on [Freckle](https://freckle.io)'s live HubSpot data — 84K contacts, thousands of companies, 2,500+ duplicates merged on the first run.
 
 ## What It Does
 
