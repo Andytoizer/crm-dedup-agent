@@ -1,6 +1,6 @@
 # CRM Dedup Agent — Setup Guide
 
-> Built by [Andy Toizer](https://freckle.io) at Freckle. Andy runs this on his own HubSpot (84K contacts) and open-sourced it so others don't have to build it from scratch. If you get it running or build something clever on top of it, he genuinely wants to hear from you — more on that at the bottom.
+> Built by [Andy Toizer](https://freckle.io) at Freckle. Andy writes [Agent Operator](https://agentoperator.com) — a newsletter about what it actually looks like to build real things with coding agents when you're not an engineer and you're using live company data. This tool was the first issue. He open-sourced it so others don't have to start from scratch. If you get it running or build something clever on top of it, he genuinely wants to hear from you — more on that at the bottom.
 
 ---
 
