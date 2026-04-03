@@ -1,6 +1,6 @@
 # CRM Dedup Agent
 
-Built by [Andy Toizer](https://freckle.io) — I write [Agent Operator](https://agentoperator.com), a newsletter about what it actually looks like to build real things with coding agents when you're not an engineer and you're using live company data. This tool was Issue #1. I built it in a day on Freckle's own HubSpot (84K contacts), it cost $14 to run, and it's been scanning every four hours since. The full story of how it went — including the moment I nearly ran it across all 84,000 live records without a limit — is in the first issue.
+Built by [Andy Toizer](https://www.linkedin.com/in/andy-toizer/) — I write Agent Operator, a newsletter about what it actually looks like to build real systems with coding agents as a non-engineer, using live company data.
 
 It finds and merges duplicate contacts and companies in your CRM. Runs on a 4-hour schedule, auto-merges high-confidence matches, uses Claude AI to review fuzzy ones, and sends a daily Slack digest of anything that genuinely needs human eyes.
 
