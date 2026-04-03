@@ -1,6 +1,6 @@
 # CRM Dedup Agent — Setup Guide
 
-> Built by [Andy Toizer](https://www.linkedin.com/in/andy-toizer/) — he writes Agent Operator, a newsletter about what it actually looks like to build real systems with coding agents as a non-engineer, using live company data. He open-sourced this so others don't have to start from scratch. If you get it running or build something clever on top of it, he genuinely wants to hear from you — more on that at the bottom.
+> Built by [Andy Toizer](https://www.linkedin.com/in/andy-toizer/) — he writes [Agent Operator](https://agentoperator.substack.com), a newsletter about what it actually looks like to build real systems with coding agents as a non-engineer, using live company data. He open-sourced this so others don't have to start from scratch. If you get it running or build something clever on top of it, he genuinely wants to hear from you — more on that at the bottom.
 
 ---
 

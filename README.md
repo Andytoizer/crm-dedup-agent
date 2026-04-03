@@ -1,6 +1,6 @@
 # CRM Dedup Agent
 
-Built by [Andy Toizer](https://www.linkedin.com/in/andy-toizer/) — I write Agent Operator, a newsletter about what it actually looks like to build real systems with coding agents as a non-engineer, using live company data.
+Built by [Andy Toizer](https://www.linkedin.com/in/andy-toizer/) — I write [Agent Operator](https://agentoperator.substack.com), a newsletter about what it actually looks like to build real systems with coding agents as a non-engineer, using live company data.
 
 It finds and merges duplicate contacts and companies in your CRM. Runs on a 4-hour schedule, auto-merges high-confidence matches, uses Claude AI to review fuzzy ones, and sends a daily Slack digest of anything that genuinely needs human eyes.
 
